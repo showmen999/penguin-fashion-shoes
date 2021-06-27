@@ -1,0 +1,26 @@
+nav img
+{
+    width: 40%;
+}
+section
+{
+    background-color: #fff9f4;
+}
+.buy-now-btn
+{
+    background-image: linear-gradient(to bottom, #4755ce 0%, #3949d9 100%);
+    color: #fff;
+    font-weight: 700;
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+}
+.shoes-card
+{
+    border: none;
+}
+.detail-img
+{
+  width: 20%;
+}
